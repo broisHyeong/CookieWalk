@@ -1,15 +1,20 @@
 # cookiewalk
+<img src="https://github.com/user-attachments/assets/dd838b43-f07f-4a0e-8627-fcfd102ecd32" alt="logo" width="200" height="200"/>
+
+디지털스마트 부산 아카데미 웹개발 훈력과정 프로젝트 
+
+개발기간: 2024.04 ~ 2024.06.20
 
 ## cookiewalk 개발배경
 
 
-서구화된 식단과 운동량 감소로 비만율 증가로 이어진다.
-비만율 증가는 건강악화, 사회비용 증가, 기형아 출산율 증가등 여러 문제로 이어진다.
-쿠키워크는 이러한 사회문제점을 인식하고 운동량 증가를 위해 개발된 앱이다.
+서구화된 식단과 운동량 감소로 인해 비만율이 증가하고 있습니다. 비만율의 증가는 건강 악화, 사회적 비용 증가, 그리고 기형아 출산율 증가 등 다양한 문제를 초래합니다. 쿠키워크는 이러한 사회 문제를 인식하고, 운동량을 늘리기 위해 개발된 앱입니다.
 
 
-우선 현대인들이 운동을 안하는 이유에 대한 배경조사가 필요했다.
-잡코리아에서 조사한 직장인들이 운동을 안하는 이유
+우선, 현대인들이 운동을 하지 않는 이유에 대한 배경 조사가 필요했습니다.
+
+
+**잡코리아에서 조사한 직장인들이 운동을 안하는 이유**
 
 
 1. 게을러서 행동으로 이어지지 않음
@@ -17,18 +22,37 @@
 3. 흥미를 느끼지 못해서
 4. 경제적인 여유가 부족해서
 
-위 4가지 이유는 비중이 큰 순서대로 나열하였다.
-
-쿠키워크는 행동으로 이어지지 않고, 시간이 없고, 운동에 흥미를 느끼지 않고, 경제적인 여유가 없는 이 시대의 사람들이 할 수 있는 운동이 무엇인가에 대해 깊이 토의한 결과
-"걷기" 라는 결과를 도출 할 수 있었다.
+위 4가지 이유는 비중이 큰 순서대로 나열하였습니다.
 
 
-걷기는 생각보다 많은 운동효과를 지니고 있다.
-심혈관 건강, 혈압·혈당 조절, 척추를 지지 근육을 발달, 신경세포 활성화를 통한 스트레스와 우울증이 감소등...
-이러한 걷기를 어떻게 하면 재밌게 할 수 있을까?
+쿠키워크는 현대인들이 운동을 하지 않는 이유들을 해결하기 위해 깊이 토의한 결과, 가장 접근하기 쉬운 운동인 걷기를 선택했습니다.
+
+걷기는 심혈관 건강 증진, 혈압 및 혈당 조절, 척추를 지지하는 근육 발달, 신경세포 활성화를 통한 스트레스와 우울증 감소 등 많은 운동 효과를 가지고 있습니다.
 
 
+### 걷기를 어떻게 재밌게 할 수 있을까?
 
+![화면 캡처 2024-07-29 203616](https://github.com/user-attachments/assets/08d0c071-2203-4d44-b16b-21cab4b15866)
+
+우리는 위의 사진에서 영감을 받아, 사용자 주변의 산책 경로를 그림처럼 만들면 걷기에 더 흥미를 느낄 수 있을 것이라고 생각했습니다. 이를 바탕으로 쿠키워크 앱을 제작하게 되었습니다.
+
+
+---
+
+## 기술스택
+**Environment** 
+
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white"> 
+
+**Config**  
+<img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white"> 
+
+**Development** 
+
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white"><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white"> <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=Supabase&logoColor=white"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScripts&logoColor=white"> 
+
+---
+## 화면구성 및 주요기능
 
 
 클라이언트,서버 동시 실행 시키는 법
