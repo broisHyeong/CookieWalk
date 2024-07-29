@@ -1,7 +1,7 @@
 # cookiewalk
 <img src="https://github.com/user-attachments/assets/dd838b43-f07f-4a0e-8627-fcfd102ecd32" alt="logo" width="200" height="200"/>
 
-디지털스마트 부산 아카데미 웹개발 훈력과정 프로젝트 
+디지털스마트 부산 아카데미 웹개발 프로젝트 
 
 개발기간: 2024.04 ~ 2024.06.20
 
@@ -25,7 +25,7 @@
 위 4가지 이유는 비중이 큰 순서대로 나열하였습니다.
 
 
-쿠키워크는 현대인들이 운동을 하지 않는 이유들을 해결하기 위해 깊이 토의한 결과, 가장 접근하기 쉬운 운동인 걷기를 선택했습니다.
+현대인들이 운동을 하지 않는 이유들을 해결하기 위해 팀원들과 깊이 토의한 결과, 가장 접근하기 쉬운 운동인 걷기를 선택했습니다.
 
 걷기는 심혈관 건강 증진, 혈압 및 혈당 조절, 척추를 지지하는 근육 발달, 신경세포 활성화를 통한 스트레스와 우울증 감소 등 많은 운동 효과를 가지고 있습니다.
 
@@ -52,6 +52,12 @@
 <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white"><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white"> <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=Supabase&logoColor=white"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScripts&logoColor=white"> 
 
 ---
+## 시스템 구현 과정
+![image01](https://github.com/user-attachments/assets/1a0644fc-8c8f-44a5-865f-ecfc4f8483e8) 
+
+팀원 모두가 Java와 Kotlin에 대한 지식이 없었기 때문에, 웹뷰(WebView)를 활용하여 앱을 제작하는 방식을 선택했습니다. 이 과정에서 GitHub와 연동하여 Netlify에서 사이트를 빌드하고, SWING2APP을 통해 Netlify에서 배포된 URL을 기반으로 APK 파일을 생성할 수 있었습니다.
+
+
 ## 화면구성 및 주요기능
 
 
