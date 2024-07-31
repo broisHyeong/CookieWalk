@@ -109,6 +109,7 @@
 ## 포스터
 
 [![2조 포스터_최종](https://github.com/user-attachments/assets/948246ec-4208-4292-a439-2c3930df30aa)](https://github.com/user-attachments/files/16435506/2._.pdf) 
+
 (클릭하시면 pdf 다운 가능합니다!)
 
 ## 시연영상  
